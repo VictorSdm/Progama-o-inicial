@@ -1,0 +1,11 @@
+C:\Users\Tecnico\source\repos\Oloko\Oloko\obj\Debug\netcoreapp2.1\Oloko.csprojAssemblyReference.cache
+C:\Users\Tecnico\source\repos\Oloko\Oloko\obj\Debug\netcoreapp2.1\Oloko.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\Oloko\Oloko\obj\Debug\netcoreapp2.1\Oloko.AssemblyInfoInputs.cache
+C:\Users\Tecnico\source\repos\Oloko\Oloko\obj\Debug\netcoreapp2.1\Oloko.AssemblyInfo.cs
+C:\Users\Tecnico\source\repos\Oloko\Oloko\bin\Debug\netcoreapp2.1\Oloko.deps.json
+C:\Users\Tecnico\source\repos\Oloko\Oloko\bin\Debug\netcoreapp2.1\Oloko.runtimeconfig.json
+C:\Users\Tecnico\source\repos\Oloko\Oloko\bin\Debug\netcoreapp2.1\Oloko.runtimeconfig.dev.json
+C:\Users\Tecnico\source\repos\Oloko\Oloko\bin\Debug\netcoreapp2.1\Oloko.dll
+C:\Users\Tecnico\source\repos\Oloko\Oloko\bin\Debug\netcoreapp2.1\Oloko.pdb
+C:\Users\Tecnico\source\repos\Oloko\Oloko\obj\Debug\netcoreapp2.1\Oloko.dll
+C:\Users\Tecnico\source\repos\Oloko\Oloko\obj\Debug\netcoreapp2.1\Oloko.pdb
